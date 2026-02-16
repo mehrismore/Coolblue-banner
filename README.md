@@ -39,6 +39,10 @@ Open [banner.html](banner.html) in a browser. Refresh after edits to see changes
 2. Edit [styles.css](styles.css) or [script.js](script.js).
 3. Refresh the browser to see updates.
 
+## Preview of the Figma File prototyping
+<img width="845" height="544" alt="Screenshot 2026-02-16 at 12 41 06" src="https://github.com/user-attachments/assets/9cdeb5f9-0011-4cd5-b586-7bca62db2fd2" />
+
+
 ## Author
 
-Assignment implementation by Mehr Beniss.
+Assignment implementation by Mehrnoosh Beniss.
